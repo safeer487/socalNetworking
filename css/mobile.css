@@ -1,0 +1,45 @@
+/*body styling*/
+	
+* { position:relative;}
+	body{
+		font-family: Tahoma;
+		margin-top:300px;
+	}
+
+
+/*header bg-color*/
+	nav.navbar{
+		/*background-color: orange;*/
+	}
+
+/*link styling*/	
+#chatty{
+	/*color:white;*/
+	font-size:25px;
+	font-weight: bold;
+}
+
+/*logIn signUp styling*/
+.redButton{
+	background-color: red;
+	font-weight: bold;
+	color:white;
+	border-style: none;
+	border-radius: 5px;
+}
+.grayLogo{
+	color:#e3e3e3;
+}
+li{
+	list-style:none;
+}
+.e{
+	color:red;
+}
+.s{
+	color:green;
+}
+.bold{
+	font-weight: bold;
+	font-style:italic:;
+}

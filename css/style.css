@@ -1,0 +1,73 @@
+/*body styling*/
+* { position:relative;}	
+	body{
+		font-family: Tahoma;
+		margin-top:125px;
+	}
+
+
+/*header bg-color*/
+	nav.navbar{
+		/*background-color: orange;*/
+	}
+
+/*link styling*/	
+#chatty{
+	/*color:white;*/
+	font-size:25px;
+	font-weight: bold;
+}
+
+/*logIn signUp styling*/
+.redButton{
+	background-color: red;
+	font-weight: bold;
+	color:white;
+	border-style: none;
+	border-radius: 5px;
+}
+.grayLogo{
+	color:#e3e3e3;
+}
+li{
+	list-style:none;
+}
+.e{
+	color:red;
+}
+.s{
+	color:green;
+}
+.bold{
+	font-weight: bold;
+	font-style:italic:;
+}
+#notification{
+	position:relative;
+	min-height: 500px;
+	top:-72px;
+
+}
+.bright{
+	
+	background-color: red;
+}
+.pImg{
+	margin-bottom:2px;
+}
+li.imagess{
+	float:left;
+	margin-left:60px;
+}
+li.imagess:first-child{
+	margin-left:10px;
+}
+.bold{
+	font-weight: bold;
+}
+.online{
+	border-radius:5px;
+	box-shadow: 0px 0px 10px #00FF00;
+}
+
+
